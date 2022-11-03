@@ -1,0 +1,38 @@
+html{
+    background-image: url(Assets/Sable\ Softwares.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    
+    background-color: rgb(0, 0, 0);
+    color: whitesmoke;
+}
+
+webName{
+    font-size: 70px;
+    color: whitesmoke;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#webIcon{
+    height: 70px; width: 70px;
+    position: relative; top: 15px;
+}
+
+#menuThumbs{
+    height: 40px; width: 40px;
+    padding-right: 5px;
+}
+
+tableContent{
+    display: flex; justify-content: flex-end;
+    position: relative; top: -70px;
+}
+
+
+
+#mediaLinks{
+    display: flex;
+    justify-content: center;
+}
