@@ -1,7 +1,6 @@
 html{
-    background-image: url(Assets/Sable\ Softwares.png);
-    background-repeat: no-repeat;
-    background-size: cover;
+    background-image: url(Assets/WebBackground.png);
+    background-size: 1200px;
     background-position: center;
     background-attachment: fixed;
     
@@ -9,23 +8,37 @@ html{
     color: whitesmoke;
 }
 
+/*----------------------------------------------------------------*/
+
+tableBackground{
+    background-color: rgba(0, 0, 0, 0.1);
+    border-style: solid;
+    padding-left: 100%;
+    padding-top: 100px;
+    position: relative; top: 80px; left: -3px;
+    backdrop-filter: blur(6px);
+    border-radius: 5px;
+    border-color: rgba(0, 0, 0, 0);
+    border-bottom-color: whitesmoke;
+}
+
 webName{
     font-size: 70px;
     color: whitesmoke;
     font-family: 'Comfortaa', cursive;
-    position: absolute; top: 35px;
+    position: absolute; top: 25px;
 }
 
 #webIcon{
     height: 70px; width: 70px;
-    position: relative; top: -2px;
+    position: relative; top: -10px;
     padding-top: 10px;
 }
 
 #menuThumbs{
     height: 40px; width: 40px;
     padding-right: 10px;
-    position: relative; top: 10px;
+    position: relative; top: 5px;
 }
 
 tableContent{
@@ -33,17 +46,27 @@ tableContent{
     position: relative; top: -70px;
 }
 
-tableBackground{
-    background-color: rgba(0, 0, 0, 0);
-    border-style: solid;
-    padding-left: 100%;
-    padding-top: 130px;
-    position: relative; top: 100px; left: -3px;
-    backdrop-filter: blur(6px);
-    border-radius: 5px;
-}
-
 #mediaLinks{
     display: flex;
     justify-content: center;
+}
+
+/*----------------------------------------------------------------*/
+
+portalBackground{
+    border-style: solid;
+    background-color: rgba(0, 0, 0, 0);
+    border-radius: 1%;
+    border-width: 10px;
+    border-color: rgb(68, 17, 123);
+    opacity: .6;
+
+    background-image: url("Assets/Background.png");
+    background-blend-mode: screen;
+    background-size: 100%;
+
+    position: relative; left: 5%;
+    padding-left: 90%;
+    padding-bottom: 34%;
+    
 }
