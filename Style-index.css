@@ -12,25 +12,24 @@ html{
 webName{
     font-size: 70px;
     color: whitesmoke;
-    font-family: 'Courier New', Courier, monospace;
+    font-family: 'Comfortaa', cursive;
 }
 
 #webIcon{
     height: 70px; width: 70px;
-    position: relative; top: 15px;
+    position: relative; top: 10px;
+    padding-top: 10px;
 }
 
 #menuThumbs{
     height: 40px; width: 40px;
-    padding-right: 5px;
+    padding-right: 10px;
 }
 
 tableContent{
     display: flex; justify-content: flex-end;
     position: relative; top: -70px;
 }
-
-
 
 #mediaLinks{
     display: flex;
