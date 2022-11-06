@@ -63,13 +63,16 @@ tableContent{
     margin-top: -25px;
 
     border-radius: 50px;
+    border-color: blueviolet;
+    border-width: 0.5vmax;
 
-    background-image: url(Assets/Background.png);
+    background-image: url(Assets/Anime/wp7992445.jpg);
     background-size: cover;
     
     font-size: 4vmax;
     color: whitesmoke;
     font-family: 'Comfortaa', cursive;
+    text-shadow: 2px 2px 2px black;
 }
 
 #movieButton{
@@ -82,15 +85,16 @@ tableContent{
     margin-top: 15px;
 
     border-radius: 50px;
+    border-color: blueviolet;
+    border-width: 0.5vmax;
 
-    background-image: url(Assets/Background.png);
+    background-image: url(Assets/MoviesShows/john-wick-rain-4k-3r.jpg);
     background-size: cover;
     
     font-size: 4vmax;
     color: whitesmoke;
     font-family: 'Comfortaa', cursive;
-
-
+    text-shadow: 2px 2px 2px black;
 }
 
 
