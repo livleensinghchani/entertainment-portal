@@ -66,6 +66,8 @@ tableContent{
     border-color: blueviolet;
     border-width: 0.5vmax;
 
+    background-color: black;
+
     background-image: url(Assets/Anime/wp7992445.jpg);
     background-size: cover;
     
@@ -87,6 +89,8 @@ tableContent{
     border-radius: 50px;
     border-color: blueviolet;
     border-width: 0.5vmax;
+
+    background-color: black;
 
     background-image: url(Assets/MoviesShows/john-wick-rain-4k-3r.jpg);
     background-size: cover;
