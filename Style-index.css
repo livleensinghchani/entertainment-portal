@@ -54,8 +54,8 @@ tableContent{
 /*----------------------------------------------------------------*/
 
 #animeButton{
-    height: 40vmin;
-    width: 45vmax;
+    height: 32vmin;
+    width: 42vmax;
 
     display: block;
     margin: 0 auto;
@@ -67,14 +67,14 @@ tableContent{
     background-image: url(Assets/Background.png);
     background-size: cover;
     
-    font-size: 8vmax;
+    font-size: 6vmax;
     color: whitesmoke;
     font-family: 'Comfortaa', cursive;
 }
 
 #movieButton{
-    height: 40vmin;
-    width: 45vmax;
+    height: 32vmin;
+    width: 42vmax;
 
     display: block;
     margin: 0 auto;
@@ -86,11 +86,11 @@ tableContent{
     background-image: url(Assets/Background.png);
     background-size: cover;
     
-    font-size: 8vmax;
+    font-size: 6vmax;
     color: whitesmoke;
     font-family: 'Comfortaa', cursive;
 
-    
+
 }
 
 
