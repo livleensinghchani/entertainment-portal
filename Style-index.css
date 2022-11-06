@@ -53,75 +53,42 @@ tableContent{
 
 /*----------------------------------------------------------------*/
 
-portalBackgroundAnime{
-    border-style: solid;
-    background-color: rgba(0, 0, 0, 0);
-    border-radius: 20%;
-    border-width: 10px;
-    border-color: rgb(68, 17, 123);
-    opacity: .8;
-
-    background-image: url("Assets/1.png");
-    background-blend-mode: screen;
-    background-size: cover;
-    background-repeat: no-repeat;
-
-    position: relative; top: -20px;
-
-    margin-top: 2%;
-    margin-right: 2%; margin-left: 2%;
-
-    height: 100%; width: 1.8vmax;
+#animeButton{
+    height: 40vmin;
+    width: 45vmax;
 
     display: block;
-    text-align: center;
     margin: 0 auto;
 
-    padding-left: 45vmax; padding-bottom: 300px;
+    margin-top: -25px;
+
+    border-radius: 50px;
+
+    background-image: url(Assets/Background.png);
+    background-size: cover;
+    
+    font-size: 8vmax;
+    color: whitesmoke;
+    font-family: 'Comfortaa', cursive;
 }
 
-portalBackgroundMovies{
-    border-style: solid;
-    background-color: rgba(0, 0, 0, 0);
-    border-radius: 20%;
-    border-width: 10px;
-    border-color: rgb(68, 17, 123);
-    opacity: .8;
-
-    background-image: url("Assets/2.png");
-    background-blend-mode: screen;
-    background-size: cover;
-    background-repeat: no-repeat;
-    
-
-    margin-top: 2%;
-    margin-right: 2%; margin-left: 2%;
-
-    height: 100%; width: 1.8vmax;
+#movieButton{
+    height: 40vmin;
+    width: 45vmax;
 
     display: block;
-    text-align: center;
     margin: 0 auto;
 
-    padding-left: 45vmax; padding-bottom: 300px;
-}
+    margin-top: 15px;
 
-animeText{
-    display: flex;
-    justify-content: center;
+    border-radius: 50px;
 
-    font-size: 400%;
-    font-family: 'Comfortaa', cursive;;
+    background-image: url(Assets/Background.png);
+    background-size: cover;
     
-    position:absolute;top: 20vmax;left: 50%; right: 50%;
-}
-
-movieText{
-    display: flex;
-    justify-content: center;
-
-    font-size: 400%;
-    font-family: 'Comfortaa', cursive;;  
+    font-size: 8vmax;
+    color: whitesmoke;
+    font-family: 'Comfortaa', cursive;
 }
 
 
