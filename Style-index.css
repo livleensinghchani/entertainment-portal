@@ -52,15 +52,31 @@ tableContent{
 }
 
 /*----------------------------------------------------------------*/
+buttonSection1{
+    display: grid;
+    justify-content: center;
+    align-content: center;
+
+    gap: 4px;
+    grid-auto-flow: column;
+}
+buttonSection2{
+    display: grid;
+    justify-content: center;
+    align-content: center;
+
+    gap: 15px;
+    grid-auto-flow: column;
+}
 
 #animeButton{
-    height: 32vmin;
-    width: 42vmax;
+    height: 38vmin;
+    width: 52vmax;
 
     display: block;
     margin: 0 auto;
 
-    margin-top: -25px;
+    margin-top: -2%;
 
     border-radius: 50px;
     border-color: blueviolet;
@@ -68,7 +84,7 @@ tableContent{
 
     background-color: black;
 
-    background-image: url(Assets/Anime/wp7992445.jpg);
+    background-image: url(Assets/Anime/GiantLizzard.jpg);
     background-size: cover;
     
     font-size: 4vmax;
@@ -76,10 +92,9 @@ tableContent{
     font-family: 'Comfortaa', cursive;
     text-shadow: 2px 2px 2px black;
 }
-
 #hollywoodButton{
-    height: 32vmin;
-    width: 42vmax;
+    height: 36vmin;
+    width: 30vmax;
 
     display: block;
     margin: 0 auto;
@@ -92,7 +107,7 @@ tableContent{
 
     background-color: black;
 
-    background-image: url(Assets/MoviesShows/cyberpunk-skyscraper-upside-down-animated-movies-wallpaper-preview.jpg);
+    background-image: url(Assets/MoviesShows/JohnWick1.jpg);
     background-size: cover;
     
     font-size: 4vmax;
@@ -100,10 +115,9 @@ tableContent{
     font-family: 'Comfortaa', cursive;
     text-shadow: 2px 2px 2px black;
 }
-
 #bollywoodButton{
-    height: 32vmin;
-    width: 42vmax;
+    height: 36vmin;
+    width: 30vmax;
 
     display: block;
     margin: 0 auto;
@@ -116,7 +130,7 @@ tableContent{
 
     background-color: black;
 
-    background-image: url(Assets/MoviesShows/action-drama-2017-4k-wallpaper-preview.jpg);
+    background-image: url(Assets/MoviesShows/StarWars.jpg);
     background-size: cover;
     
     font-size: 4vmax;
