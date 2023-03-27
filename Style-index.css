@@ -77,7 +77,7 @@ tableContent{
     text-shadow: 2px 2px 2px black;
 }
 
-#movieButton{
+#hollywoodButton{
     height: 32vmin;
     width: 42vmax;
 
@@ -92,7 +92,31 @@ tableContent{
 
     background-color: black;
 
-    background-image: url(Assets/MoviesShows/john-wick-rain-4k-3r.jpg);
+    background-image: url(Assets/MoviesShows/cyberpunk-skyscraper-upside-down-animated-movies-wallpaper-preview.jpg);
+    background-size: cover;
+    
+    font-size: 4vmax;
+    color: whitesmoke;
+    font-family: 'Comfortaa', cursive;
+    text-shadow: 2px 2px 2px black;
+}
+
+#bollywoodButton{
+    height: 32vmin;
+    width: 42vmax;
+
+    display: block;
+    margin: 0 auto;
+
+    margin-top: 15px;
+
+    border-radius: 50px;
+    border-color: blueviolet;
+    border-width: 0.5vmax;
+
+    background-color: black;
+
+    background-image: url(Assets/MoviesShows/action-drama-2017-4k-wallpaper-preview.jpg);
     background-size: cover;
     
     font-size: 4vmax;
