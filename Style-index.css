@@ -93,8 +93,8 @@ buttonSection2{
     text-shadow: 2px 2px 2px black;
 }
 #hollywoodButton{
-    height: 36vmin;
-    width: 30vmax;
+    height: 300%;
+    width: 48vmin;
 
     display: block;
     margin: 0 auto;
@@ -116,8 +116,8 @@ buttonSection2{
     text-shadow: 2px 2px 2px black;
 }
 #bollywoodButton{
-    height: 36vmin;
-    width: 30vmax;
+    height: 300%;
+    width: 48vmin;
 
     display: block;
     margin: 0 auto;
