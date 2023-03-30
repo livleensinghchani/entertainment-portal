@@ -110,7 +110,7 @@ buttonSection2{
     background-image: url(Assets/MoviesShows/JohnWick1.jpg);
     background-size: cover;
     
-    font-size: 3.5vmax;
+    font-size: 3vmax;
     color: whitesmoke;
     font-family: 'Comfortaa', cursive;
     text-shadow: 2px 2px 2px black;
@@ -133,7 +133,7 @@ buttonSection2{
     background-image: url(Assets/MoviesShows/StarWars.jpg);
     background-size: cover;
     
-    font-size: 3.5vmax;
+    font-size: 3vmax;
     color: whitesmoke;
     font-family: 'Comfortaa', cursive;
     text-shadow: 2px 2px 2px black;
