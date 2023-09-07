@@ -1,5 +1,5 @@
 # Entertainment-Portal
-A website to organizes all entertainment Websites
+A website to organize all entertainment Websites
 
 To Visit Click Me
-https://chanidev.github.io/entertainment-portal/
+https://livleensinghchani.github.io/entertainment-portal/
